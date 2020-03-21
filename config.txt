@@ -1,0 +1,15 @@
+# For Windows OS save this config.txt file to: %APPDATA%\youtube-dl\config.txt
+
+# Saves all videos in a custom directory [CHANGE THIS TO YOUR FOLDER] <=======
+-o G:/Downloads/%(title)s.%(ext)s
+
+# END EDITS ==================================================================
+
+# Shows progress in console title (where possible)
+--console-title
+
+# Limits of download retries
+-R 30
+
+# Sets the number of retries for a fragment
+--fragment-retries 20
