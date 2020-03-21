@@ -3,6 +3,12 @@ A better config for defaults for youtube-dl on Windows.
 
 _Youtube-dl: https://ytdl-org.github.io/youtube-dl/_
 
+I personally dislike youtube-dl's default behaviour of saving the "HOME" directory in Windows.
+
+In Windows the "HOME" folder is populated with other system files and folders.
+
+This config fixes that by default to a meaningful custom download folder :D
+
 # How to use
 
 1) Download config.txt
