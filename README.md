@@ -14,5 +14,6 @@ This config fixes that by default to a meaningful custom download folder :D
 1) Download config.txt
 2) Move config.txt to: %APPDATA%\youtube-dl\config.txt
 3) Edit the 4th line in config.txt to your desired default download folder
-4) Save changes
-5) Done :D
+4) Save changes to config.txt
+5) Create the defined folder, if it does not already exist
+6) Done :D
